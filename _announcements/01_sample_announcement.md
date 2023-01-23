@@ -1,4 +1,4 @@
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2023-01-23
 ---
-Sample announcement, Please check out [here](/).
+The first lecture for this class is scheduled for Tuesday, February 14, 2023.
