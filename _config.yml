@@ -6,7 +6,7 @@ course_semester: "Spring 2023"
 baseurl: "/QuantBio" # the subpath of your site, e.g. /blog/
 url: "https://vu-csp.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Vanderbilt University Cancer Systems Pharmacology"
+schoolname: "Vanderbilt University -- Cancer Systems Pharmacology & Biology"
 schoolurl: "https://vu-csp.github.io"
 twitter_username: darrentyson_vu
 
