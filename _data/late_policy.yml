@@ -1,4 +1,5 @@
 policies:
-  - You have free 8 late days.
-  - You can use late days for assignments. A late day extends the deadline 24 hours.
-  - Once you have used all 8 late days, the penalty is 10% for each additional late day.
+  - Assignments are late if not submitted before class begins on the day the assignments are due
+  - A late day extends the deadline 24 hours.
+  - A penalty of 10% is accrued for each late day.
+  - Seeking assistance from the instructor or TAs _prior_ to the due date may be considered for extending due date, based on demonstrated effort by the student
