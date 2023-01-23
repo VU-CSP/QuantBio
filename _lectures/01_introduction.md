@@ -10,6 +10,7 @@ thumbnail: /static_files/presentations/lec.jpg
 ---
 **Suggested Readings:**
 - [Fractional Proliferation](/static_files/literature/fracprolif.pdf)
+- [Fractional Proliferation](fracprolif)
 - [Growth Rate metric](/static_files/literature/growthrate.pdf)
 - [Drug-Induced Proliferation rates](/static_files/literature/diprate.pdf)
 - [MUlti-dimensional SYnergy of Combinations (MuSyC)](/static_files/literature/musyc.pdf)
