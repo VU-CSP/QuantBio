@@ -12,12 +12,16 @@ links:
       name: fracprolif
     - url: /static_files/literature/growthrate.pdf
       name: growthrate
+    - url: /static_files/literature/diprate.pdf
+      name: diprate
+    - url: /static_files/literature/musyc.pdf
+      name: musyc
+    - url: /static_files/literature/thunor.pdf
+      name: thunor
 ---
 **Relevant papers:**
-- [Fractional Proliferation](/static_files/literature/fracprolif.pdf)
-- [Fractional Proliferation](fracprolif)
-- [Growth Rate metric](/static_files/literature/growthrate.pdf)
-- [Growth Rate metric](growthrate)
-- [Drug-Induced Proliferation rates](/static_files/literature/diprate.pdf)
-- [MUlti-dimensional SYnergy of Combinations (MuSyC)](/static_files/literature/musyc.pdf)
-- [Thunor (visualization & analysis of high-throughput dose-response data)](/static_files/literature/thunor.pdf)
+- [Fractional Proliferation (fracprolif)](QuantBio/static_files/literature/fracprolif.pdf)
+- [Growth Rate metric (growthrate)](QuantBio/static_files/literature/growthrate.pdf)
+- [Drug-Induced Proliferation rates (diprate)](QuantBio/static_files/literature/diprate.pdf)
+- [MUlti-dimensional SYnergy of Combinations (MuSyC)](QuantBio/static_files/literature/musyc.pdf)
+- [Thunor (visualization & analysis of high-throughput dose-response data)](QuantBio/static_files/literature/thunor.pdf)
