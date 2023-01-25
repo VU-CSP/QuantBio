@@ -20,8 +20,8 @@ links:
       name: thunor
 ---
 **Relevant papers:**
-- [Fractional Proliferation (fracprolif)](QuantBio/static_files/literature/fracprolif.pdf)
-- [Growth Rate metric (growthrate)](QuantBio/static_files/literature/growthrate.pdf)
-- [Drug-Induced Proliferation rates (diprate)](QuantBio/static_files/literature/diprate.pdf)
-- [MUlti-dimensional SYnergy of Combinations (MuSyC)](QuantBio/static_files/literature/musyc.pdf)
-- [Thunor (visualization & analysis of high-throughput dose-response data)](QuantBio/static_files/literature/thunor.pdf)
+- `fracprolif`: Tyson DR, Garbett SP, Frick PL, Quaranta V. Fractional proliferation: a method to deconvolve cell population dynamics from single-cell data. Nat Methods. 2012 Sep; 9 923-928. doi:10.1038/nmeth.2138. PubMed PMID: 22886092. PMCID: PMC3459330.  
+- `growthrate`: Hafner M, Niepel M, Chung M, Sorger PK. Growth rate inhibition metrics correct for confounders in measuring sensitivity to cancer drugs. Nat Methods. 2016 06; 13(6) 521-527. doi:10.1038/nmeth.3853. PubMed PMID: 27135972. PMCID: PMC4887336.  
+- `diprate`: Harris LA, Frick PL, Garbett SP, Hardeman KN, Paudel BB, Lopez CF, Quaranta V, Tyson DR. An unbiased metric of antiproliferative drug effect in vitro. Nat Methods. 2016 06; 13(6) 497-500. doi:10.1038/nmeth.3852. PubMed PMID: 27135974. PMCID: PMC4887341.  
+- `musyc`: Meyer CT, Wooten DJ, Paudel BB, Bauer J, Hardeman KN, Westover D, Lovly CM, Harris LA, Tyson DR, Quaranta V. Quantifying Drug Combination Synergy along Potency and Efficacy Axes. Cell Syst. 2019 02 27; 8(2) 97-108.e16. doi:10.1016/j.cels.2019.01.003. PubMed PMID: 30797775. PMCID: PMC6675406.  
+- `thunor`: Lubbock ALR, Harris LA, Quaranta V, Tyson DR, Lopez CF. Thunor: visualization and analysis of high-throughput dose-response datasets. Nucleic Acids Res. 2021 07 02; 49(W1) W633-W640. doi:10.1093/nar/gkab424. PubMed PMID: 34038546. PMCID: PMC8265171.  
