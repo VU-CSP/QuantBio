@@ -13,6 +13,10 @@ Lubbock ALR, Harris LA, Quaranta V, Tyson DR, Lopez CF. Thunor: visualization an
 ------  
 Tyson DR, Garbett SP, Frick PL, Quaranta V. Fractional proliferation: a method to deconvolve cell population dynamics from single-cell data. Nat Methods. 2012; 9 923-928. doi:10.1038/nmeth.2138. PubMed PMID: 22886092. PMCID: PMC3459330.  
 
+[colonyfracprolif.pdf](colonyfracprolif.pdf)
+------  
+Meyer CT, Wooten DJ, Paudel BB, Bauer J, Hardeman KN, Westover D, Lovly CM, Harris LA, Tyson DR, Quaranta V. Quantifying Drug Combination Synergy along Potency and Efficacy Axes. Cell Syst. 2019 02 27; 8(2) 97-108.e16. doi:10.1016/j.cels.2019.01.003. PubMed PMID: 30797775. PMCID: PMC6675406.  
+
 [musyc.pdf](musyc.pdf)
 ------  
 Meyer CT, Wooten DJ, Paudel BB, Bauer J, Hardeman KN, Westover D, Lovly CM, Harris LA, Tyson DR, Quaranta V. Quantifying Drug Combination Synergy along Potency and Efficacy Axes. Cell Syst. 2019 02 27; 8(2) 97-108.e16. doi:10.1016/j.cels.2019.01.003. PubMed PMID: 30797775. PMCID: PMC6675406.  
