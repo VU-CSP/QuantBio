@@ -6,7 +6,7 @@ tldr: "An overview of the multiple steps involved in quantifying concentration-d
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
 hide_from_announcments: false
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/01_thumb.png
 ---
 **Suggested Readings:**
 - [Fractional Proliferation](/static_files/literature/fracprolif.pdf)
