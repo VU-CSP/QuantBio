@@ -24,6 +24,7 @@ links:
 - [`thunor`](https://github.com/VU-CSP/QuantBio/blob/2c2d913ca73add8df3b7ececab6405a7be5c28b1/static_files/literature/thunor.pdf): Lubbock ALR, Harris LA, Quaranta V, Tyson DR, Lopez CF. Thunor: visualization and analysis of high-throughput dose-response datasets. Nucleic Acids Res. 2021 07 02; 49(W1) W633-W640. doi:10.1093/nar/gkab424. PubMed PMID: 34038546. PMCID: PMC8265171.  
 - [`musyc`](https://github.com/VU-CSP/QuantBio/blob/2c2d913ca73add8df3b7ececab6405a7be5c28b1/static_files/literature/musyc.pdf): Meyer CT, Wooten DJ, Paudel BB, Bauer J, Hardeman KN, Westover D, Lovly CM, Harris LA, Tyson DR, Quaranta V. Quantifying Drug Combination Synergy along Potency and Efficacy Axes. Cell Syst. 2019 02 27; 8(2) 97-108.e16. doi:10.1016/j.cels.2019.01.003. PubMed PMID: 30797775. PMCID: PMC6675406.  
 
-**Lecture slides (PDF)**  
+**Lecture slides (PDF) and recordings (MP4)**  
 -----  
-[CancerSystemsPharmacology (intro lecture)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/CancerSystemsPharmacology.pdf)
+[01 CancerSystemsPharmacology (intro lecture slides)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/CancerSystemsPharmacology.pdf)  
+[01 CancerSystemsPharmacology (intro lecture presentation)](https://drive.google.com/file/d/1TQUcuUuQh-rqtl9dGxXziS7HmuYik-0o/view?usp=sharing)  
