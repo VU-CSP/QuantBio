@@ -28,3 +28,16 @@ links:
 - [`musyc`](https://github.com/VU-CSP/QuantBio/blob/2c2d913ca73add8df3b7ececab6405a7be5c28b1/static_files/literature/musyc.pdf): Meyer CT, Wooten DJ, Paudel BB, Bauer J, Hardeman KN, Westover D, Lovly CM, Harris LA, Tyson DR, Quaranta V. Quantifying Drug Combination Synergy along Potency and Efficacy Axes. Cell Syst. 2019 02 27; 8(2) 97-108.e16. doi:10.1016/j.cels.2019.01.003. PubMed PMID: 30797775. PMCID: PMC6675406.  
 - [`thunor`](https://github.com/VU-CSP/QuantBio/blob/2c2d913ca73add8df3b7ececab6405a7be5c28b1/static_files/literature/thunor.pdf): Lubbock ALR, Harris LA, Quaranta V, Tyson DR, Lopez CF. Thunor: visualization and analysis of high-throughput dose-response datasets. Nucleic Acids Res. 2021 07 02; 49(W1) W633-W640. doi:10.1093/nar/gkab424. PubMed PMID: 34038546. PMCID: PMC8265171.  
 - [`metrics`](https://github.com/VU-CSP/QuantBio/blob/2c2d913ca73add8df3b7ececab6405a7be5c28b1/static_files/literature/metrics.pdf): Fallahi-Sichani M, Honarnejad S, Heiser LM, Gray JW, Sorger PK. Metrics other than potency reveal systematic variation in responses to cancer drugs. Nat Chem Biol. 2013; 9(11) 708-714. doi:10.1038/nchembio.1337. PubMed PMID: 24013279. PMCID: PMC3947796.
+=======
+hide_from_announcments: false
+thumbnail: /static_files/presentations/01_thumb.png
+---
+**Suggested Readings:**
+- [Fractional Proliferation](/static_files/literature/fracprolif.pdf)
+- [Drug-Induced Proliferation rates](/static_files/literature/diprate.pdf)
+- [Clonal Fractional Proliferation](/static_files/literature/clonalfracprolif.pdf)
+- [MUlti-dimensional SYnergy of Combinations (MuSyC)](/static_files/literature/musyc.pdf)
+- [Thunor (visualization & analysis of high-throughput dose-response data)](/static_files/literature/thunor.pdf)  
+
+-----  
+[CancerSystemsPharmacology (intro lecture slides)](/static_files/presentations/CancerSystemsPharmacology.pdf)
