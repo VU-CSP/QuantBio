@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2023-02-21T22:00:00+6:00
+date: 2023-02-21T12:00:00+6:00
 title: 'Assignment #2 - PopGrowth'
 link: https://classroom.github.com/a/dCNyC7D7
 due_event: 
