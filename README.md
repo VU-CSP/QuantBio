@@ -2,7 +2,8 @@ IGP 8002-03 Bioregulation II (2023S)
 =====  
 Systems Pharmacology
 -----  
-This section of the IGP Bioregulation II course will have a combination of lectures and interactive activities exposing students to: 
+This section of the IGP Bioregulation II course will have a combination of lectures and interactive activities exposing students to:  
+
 1) Digital image analysis, especially of live-cell microscopy.  
 2) Assessment of cell population dynamics and single-cell responses.  
 3) Consideration of concentration-dependent responses to chemical perturbations.  
