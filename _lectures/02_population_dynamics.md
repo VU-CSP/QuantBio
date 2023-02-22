@@ -25,3 +25,4 @@ links:
 **Lecture slides (PDF) and recordings (MP4)**  
 -----  
 [02 Population growth models (lecture notes PDF)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/PopGrowthLecture.pdf)  
+[02 Population growth models (lecture video)](https://drive.google.com/file/d/14fxaTV8rjCILq27Kygt7hqTDp1n9xArR/view?usp=sharing)  
