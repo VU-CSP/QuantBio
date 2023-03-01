@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2023-02-28T9:00:00+6:00
-title: Quantitative Systems Pharmacology
-tldr: "Digital Image Analysis"
+title: Digital Image Analysis
+tldr: "Overview of digital image analysis, application to biological samples using microscopy, live-cell imaging reporters and software tools"
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
 hide_from_announcments: false
@@ -21,5 +21,5 @@ links:
 
 **Lecture slides (PDF) and recordings (MP4)**
 -----
-[03 Digital Image Analysis (lecture notes PDF)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/03_DigitalImageAnalysis.pdf)
-**Sorry, apparently I did not record the lecture.**
+[03 Digital Image Analysis (lecture notes PDF)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/03_DigitalImageAnalysis.pdf)  
+**Unfortunately, the lecture was not recorded.**  
