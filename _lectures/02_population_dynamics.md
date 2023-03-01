@@ -1,8 +1,9 @@
 ---
 type: lecture
 date: 2023-02-21T9:00:00+6:00
-title: Quantitative Systems Pharmacology
-tldr: "Population growth models"
+title: Population growth models
+tldr: "Background on cell proliferation, basic mathematical models of population growth, analysis of dynamic cell count data, performing linear and nonlinear regression of models fit to cell count data, and create functions in Python to perform calcuations"
+"
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
 hide_from_announcments: false
