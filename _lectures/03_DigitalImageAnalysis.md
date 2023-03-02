@@ -15,6 +15,10 @@ links:
 -----
 - [`fracprolif`](https://github.com/VU-CSP/QuantBio/blob/2c2d913ca73add8df3b7ececab6405a7be5c28b1/static_files/literature/fracprolif.pdf): Tyson DR, Garbett SP, Frick PL, Quaranta V. Fractional proliferation: a method to deconvolve cell population dynamics from single-cell data. Nat Methods. 2012 Sep; 9 923-928. doi:10.1038/nmeth.2138. PubMed PMID: 22886092. PMCID: PMC3459330.
 
+**Good online reference:**
+-----
+- [Introduction to Bioimage Analysis](https://bioimagebook.github.io/index.html) by Pete Bankhead.  
+
 **Download FIJI (is just ImageJ)**
 -----
 - [Get FIJI here](https://fiji.sc)
@@ -23,3 +27,4 @@ links:
 -----
 [03 Digital Image Analysis (lecture notes PDF)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/03_DigitalImageAnalysis.pdf)  
 **Unfortunately, the lecture was not recorded.**  
+
