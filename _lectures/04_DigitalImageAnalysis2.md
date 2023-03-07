@@ -8,12 +8,12 @@ tldr: "Digital image analysis in Python"
 hide_from_announcments: false
 thumbnail: /static_files/presentations/Fluorescence_composite.jpg
 links:
-    - url: /static_files/presentations/PythonImprocTutorial.ipynb
+    - url: /static_files/presentations/Basic_Image_manipulation.ipynb
       name: improc2
 ---
 
 
 **Lecture notebook (ipynb) and recordings (MP4)**
 -----
-[04 Digital Image Analysis 2 (lecture notesbook)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/PythonImprocTutorial.ipynb)  
+[04 Digital Image Analysis 2 (lecture notesbook)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/Basic_Image_manipulation.ipynb)  
  
