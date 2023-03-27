@@ -22,18 +22,18 @@ For more details on the types of things you can do with markup within notebooks,
 
 In **Jupyter Notebooks**, selecting Markdown or Code cells looks like this:  
 
-<img src="/static_files/presentations/img/Jupyter_blocks_unexecuted.png" style="width: 400px;" />  
+<img src="https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/img/Jupyter_blocks_unexecuted.png" style="width: 400px;" />  
 
 and once they have been executed, they look like this:  
 
-<img src="/static_files/presentations/img/Jupyter_blocks_executed.png" style="width: 400px;" />  
+<img src="https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/img/Jupyter_blocks_executed.png" style="width: 400px;" />  
 
 -----  
 
 In **Google Colab Notebooks**, selecting Markdown or Code cells looks like this:  
 
-<img src="/static_files/presentations/img/Colab_blocks_unexecuted.png" style="width: 400px;" />
+<img src="https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/img/Colab_blocks_unexecuted.png" style="width: 400px;" />
 
 and once they have been executed, they look like this:  
 
-<img src="/static_files/presentations/img/Colab_blocks_executed.png" style="width: 400px;" />
+<img src="https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/img/Colab_blocks_executed.png" style="width: 400px;" />
