@@ -5,7 +5,7 @@ title: 'Assignment #1 - Git-GitHub'
 link: https://classroom.github.com/a/dCNyC7D7
 due_event:
     type: due
-    date: 2023-02-21T09:00:00+6:00
+    date: 2023-02-21T09:00:00
     description: 'Assignment #1 due'
 ---
 Git/GitHub assignment.
