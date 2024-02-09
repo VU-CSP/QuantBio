@@ -1,11 +1,11 @@
 ---
 type: assignment
-date: 2023-03-01T12:00:00+6:00
+date: 2023-03-01 12:00:00 +6:00
 title: 'Assignment #3 - ImProc'
 link: https://classroom.github.com/a/hOoWnkiu
 due_event: 
     type: due
-    date: 2023-03-07T09:00:00+6:00
+    date: 2023-03-07 09:00:00 +6:00
     description: 'Assignment #3 due'
 ---
 Image processing and analysis assignment.  
