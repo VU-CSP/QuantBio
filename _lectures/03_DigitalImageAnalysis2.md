@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2023-03-07T9:00:00+6:00
+date: 2024-03-05T9:00:00+6:00
 title: Digital Image Analysis 2
 tldr: "Digital image analysis in Python"
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 thumbnail: /static_files/presentations/Fluorescence_composite.jpg
 links:
     - url: /static_files/presentations/Basic_Image_manipulation.ipynb

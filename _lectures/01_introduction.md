@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-02-14T9:00:00+6:00
+date: 2024-02-20T9:00:00+6:00
 title: Quantitative Systems Pharmacology
 tldr: "An overview of the multiple steps involved in quantifying concentration-dependent drug responses at the single-cell level using live-cell microscopy."
 # optional

@@ -1,7 +1,7 @@
 # Site settings
 course_name: Quantitative Biology - Systems Pharmacology
 course_description: "This 6-lecture mini-course is designed to introduce students to Systems Pharmacology, especially as it pertains to cancer, and provide examples of computational tools (primarily Python-based) that aid in interpretation of quantitative drug-response data."
-course_semester: "Spring 2023"
+course_semester: "Spring 2024"
 
 baseurl: "/QuantBio" # the subpath of your site, e.g. /blog/
 url: "https://vu-csp.github.io/" # the base hostname & protocol for your site
