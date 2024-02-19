@@ -1,11 +1,11 @@
 ---
 type: lecture
-date: 2023-03-14T9:00:00+6:00
+date: 2024-03-19T9:00:00+6:00
 title: Dose-Response Models
 tldr: "Log-logistic (Hill) model equations and how to fit them to drug-response data using nonlinear regression."
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 thumbnail: /static_files/presentations/Efficacy.png
 links:
     - url: /static_files/presentations/doseResponseLecture.ipynb
