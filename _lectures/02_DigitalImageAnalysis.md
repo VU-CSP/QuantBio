@@ -25,6 +25,5 @@ links:
 
 **Lecture slides (PDF) and recordings (MP4)**
 -----
-[03 Digital Image Analysis (lecture notes PDF)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/03_DigitalImageAnalysis.pdf)  
-**Unfortunately, the lecture was not recorded.**  
+ 
 

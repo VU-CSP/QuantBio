@@ -17,4 +17,4 @@ links:
 
 **Lecture recording (MP4)**
 -----
-[06 Review (lecture video)](https://drive.google.com/file/d/1as3KQCFR-fHUP78mBjbZ6smgao8nAvYQ/view?usp=share_link)
+

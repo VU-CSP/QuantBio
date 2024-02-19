@@ -17,6 +17,3 @@ links:
 
 **Lecture notebook (ipynb) and recordings (MP4)**
 -----
-[05 Dose-response models (lecture notesbook)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/doseResponseLecture.ipynb)  
-[05 Dose-response Thunor (lecture notesbook)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/ThunorColab.ipynb)  
-[05 Dose-response models (lecture video)](https://drive.google.com/file/d/1VY4bx4c3jv1iIHWqYAcB7qyogeSX94l8/view?usp=share_link)  
