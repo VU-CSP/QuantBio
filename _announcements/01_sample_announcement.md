@@ -1,4 +1,4 @@
 ---
-date: 2023-01-23
+date: 2024-02-20
 ---
-The first lecture for this class is scheduled for Tuesday, February 14, 2023.
+The first lecture for this class is scheduled for Tuesday, February 20, 2023.
