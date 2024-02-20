@@ -5,7 +5,7 @@ title: Digital Image Analysis
 tldr: "Overview of digital image analysis, application to biological samples using microscopy, live-cell imaging reporters and software tools"
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: true
+hide_from_announcements: true # previously misspelled as hide_from_announcments; is misspelling correct?
 thumbnail: /static_files/presentations/Fluorescence_composite.jpg
 links:
     - url: /static_files/literature/fracprolif.pdf
@@ -17,7 +17,7 @@ links:
 
 **Good online reference:**
 -----
-- [Introduction to Bioimage Analysis](https://bioimagebook.github.io/index.html) by Pete Bankhead.  
+- [Introduction to Bioimage Analysis](https://bioimagebook.github.io/index.html) by Pete Bankhead.
 
 **Download FIJI (is just ImageJ)**
 -----
@@ -25,5 +25,4 @@ links:
 
 **Lecture slides (PDF) and recordings (MP4)**
 -----
- 
 
