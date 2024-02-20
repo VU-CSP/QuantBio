@@ -27,4 +27,6 @@ links:
 **Lecture slides (PDF) and recordings (MP4)**
 -----
 [01 CancerSystemsPharmacology (intro lecture slides)](https://github.com/VU-CSP/QuantBio/blob/gh-pages/static_files/presentations/01_CancerSystemsPharmacology.pdf)
+
 [01 CancerSystemsPharmacology (intro lecture presentation)](https://drive.google.com/file/d/1cga-hZyKIJZzrMiGTDdKfjujc-l0YErK/view?usp=share_link)
+
