@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-05T9:00:00+6:00
+date: 2024-03-12T9:00:00+6:00
 title: Digital Image Analysis 2
 tldr: "Digital image analysis in Python"
 # optional
@@ -10,7 +10,7 @@ thumbnail: /static_files/presentations/Fluorescence_composite.jpg
 links:
     - url: /static_files/presentations/04_Basic_Python_Image_manipulation.ipynb
       name: improc2_notebook
-    - url: TBD
+    - url: https://drive.google.com/file/d/10YorCsfKy7NmHeRhai4JhAOcRF-p-lxR/view?usp=sharing
       name: improc2_lecture
       
 ---
@@ -18,5 +18,6 @@ links:
 
 **Lecture notebook (ipynb) and recordings (MP4)**
 -----
-[Image processing in Python](https://vu-csp.github.io/QuantBio/static_files/presentations/04_Basic_Python_Image_manipulation.ipynb)  
+[Image processing in Python - Jupyter notebook](https://vu-csp.github.io/QuantBio/static_files/presentations/04_Basic_Python_Image_manipulation.ipynb)  
+[Image processing in Python - lecture video](https://drive.google.com/file/d/10YorCsfKy7NmHeRhai4JhAOcRF-p-lxR/view?usp=sharing)  
  
