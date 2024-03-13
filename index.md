@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-IGP 8002-03 Bioregulation II (2023S)
+IGP 8002-03 Bioregulation II (2024S)
 =====  
 
 ## Systems Pharmacology
