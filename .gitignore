@@ -6,3 +6,8 @@ __pycache__
 .DS_Store
 *checkpoints
 .ipynb*
+
+# adding data files to exclude
+*.h5
+drc.html
+time_course.html
